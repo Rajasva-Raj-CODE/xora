@@ -34,13 +34,12 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 ## Images of XORA:
 
-#### --- 
+#### Hero Section
 
 
 <p align="center">
 
-  <img src="https://i.ibb.co/ydNvNXX/Screenshot-2024-10-06-194722.png
-    " width="750" title="hover text">
+ <img src="https://i.ibb.co/ydNvNXX/Screenshot-2024-10-06-194722.png" width="750" title="hover text">
   
 </p>
 
