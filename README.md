@@ -55,14 +55,6 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 <p align="center">
 
-  <img src="https://i.postimg.cc/D0vBt3Bh/Screenshot-2024-04-27-222624.png" width="750" title="hover text">
-  
-</p>
-
-#### ---
-
-<p align="center">
-
   <img src="https://i.ibb.co/wNb0nLz/Screenshot-2024-10-06-194840.png" width="750" title="hover text">
   
 </p>
@@ -79,7 +71,45 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 <p align="center">
 
-  <img src="https://i.postimg.cc/6qpfMLp5/Screenshot-2024-04-27-222652.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/d00736B/Screenshot-2024-10-06-194950.png" width="750" title="hover text">
+  
+</p>
+
+#### ---
+
+<p align="center">
+
+  <img src="https://i.ibb.co/pJzF4mY/Screenshot-2024-10-06-195035.png" width="750" title="hover text">
+  
+</p>
+
+<p align="center">
+
+  <img src="https://i.ibb.co/sC2g2M6/Screenshot-2024-10-06-195111.png" width="750" title="hover text">
+  
+</p>
+
+<p align="center">
+
+  <img src="https://i.ibb.co/jfbHjrB/Screenshot-2024-10-06-195146.png" width="750" title="hover text">
+  
+</p>
+
+<p align="center">
+
+  <img src="https://i.ibb.co/bg32ptZ/Screenshot-2024-10-06-195225.png" width="750" title="hover text">
+  
+</p>
+
+<p align="center">
+
+  <img src="https://i.ibb.co/pzwMCqm/Screenshot-2024-10-06-195257.png" width="750" title="hover text">
+  
+</p>
+
+<p align="center">
+
+  <img src="https://i.ibb.co/BN3QTjF/Screenshot-2024-10-06-195323.png" width="750" title="hover text">
   
 </p>
 
