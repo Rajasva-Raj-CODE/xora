@@ -39,7 +39,8 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 <p align="center">
 
-  <img src="https://i.postimg.cc/4dT8Q9cm/Screenshot-2024-04-27-222600.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/ydNvNXX/Screenshot-2024-10-06-194722.png
+    " width="750" title="hover text">
   
 </p>
 
