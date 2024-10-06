@@ -1,8 +1,8 @@
 # Fully Responsive Website with Modern UI/UX in React JS with Tailwind 🔥
 
-![GitHub stars](https://img.shields.io/github/stars/tejasvi8686/BrainWave?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/BrainWave?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/tejasvi8686.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+![GitHub stars](https://img.shields.io/github/stars/Rajasva-Raj-CODE/xora?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/Rajasva-Raj-CODE/xora?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/Rajasva-Raj-CODE.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
 ---
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
@@ -32,12 +32,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 
 
-For Demo checkout following link👇: <br />
-[Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts-brainwave.vercel.app/) <br />
-
-
-
-## Images of Full stack Form builder:
+## Images of XORA:
 
 #### --- 
 
