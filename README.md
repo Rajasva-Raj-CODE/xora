@@ -47,7 +47,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 <p align="center">
 
-  <img src="https://i.postimg.cc/wB55Hbtj/Screenshot-2024-04-27-222610.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/YfzHDjx/Screenshot-2024-10-06-194815.png" width="750" title="hover text">
   
 </p>
 
@@ -63,7 +63,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 <p align="center">
 
-  <img src="https://i.postimg.cc/XYCc1v4F/Screenshot-2024-04-27-222636.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/wNb0nLz/Screenshot-2024-10-06-194840.png" width="750" title="hover text">
   
 </p>
 
@@ -71,7 +71,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 <p align="center">
 
-  <img src="https://i.postimg.cc/Xv6KR0YP/Screenshot-2024-04-27-222643.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/rFHv8vj/Screenshot-2024-10-06-194913.png" width="750" title="hover text">
   
 </p>
 
