@@ -114,20 +114,6 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 </p>
 
 
-
-#### Mobile Version
-
-
-
-
-![Brainwave - Modern UI/UX website](https://iili.io/J69doHg.png)
-![Brainwave - Modern UI/UX website](https://iili.io/J69dCUF.png)
-![Brainwave - Modern UI/UX website](https://iili.io/J69dBl1.png)
-![Brainwave - Modern UI/UX website](https://iili.io/J69dxRa.png)
-
-
-
-
 ## 🚀 Getting Started
 To get started with this project, clone the repository and install the necessary dependencies.
 
