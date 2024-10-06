@@ -18,17 +18,12 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 - Tailwind CSS
 
 ## ✨ Features
-👉 Sections: Hero, services, features, how to use, roadmap, pricing, footer, header.
-
-👉 Parallax Animations: Engaging effects with mouse and scroll.
-
-👉 Complex UI Geometry: Tailwindcss for intricate shapes.
-
-👉 Latest UI Trends: Modern elements like bento grids.
-
-👉 Cool Gradients: Stylish gradients with Tailwind CSS.
-
-👉 Responsive: Seamless across all devices.
+👉 **Stunning Sections:** Hero, features, pricing (monthly/yearly), FAQs, testimonials, and download software sections.  
+👉 **Smooth Animations:** Fluid, eye-catching CSS animations.  
+👉 **Cool CSS Gradients:** Beautiful gradient effects with pseudo-elements.  
+👉 **Seamless Navigation:** Intuitive navigation with smooth scrolling.  
+👉 **Optimized Performance:** Fast loading and performance-optimized.  
+👉 **Pixel Perfect Design:** Fully responsive across all devices.
 
 
 
